@@ -1,34 +1,38 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Tampa Bay's Best Real Estate Training"
+description: Karen & Joe Donovan, a top Real Estate Agent in Tampa Bay, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
+  # - title: Events
+  #   url: #
   - title: Free Strategy Call
-    url: /contact/
+    url: /meeting/
   - title: Free Newsletter
     url: /subscribe/
 
 
 client:
-  name:
+  name: Karen & Joe Donovan
   title:
   license_number:
   about_markdown: |
+    Donovan Home Sales, Inc., founded in 2000, is built on a strong foundation of core values and purpose. We operate in a fun, exciting and challenging environment that helps all of us achieve our goals. Each of our staff members and agents are dedicated to teamwork, self-improvement, positive attitudes and most importantly, a passion and drive to surpass the expectations of every client who does business with us. Whether you are looking to sell your home, or purchase a new one, we can offer a dedicated professional team and an innovative on-line approach.
 
-  market:
-  brand:
+    Our team of enthusiastic, hard working real estate agents is ready to walk you through the process of buying the perfect home or selling your existing house for the best price.
+
+    Joe and Karen Donovan, Broker –Owners, have been helping families in the Tampa Bay - St. Pete/Clearwater area for over 20 years. Joe & Karen and their team have participated in helping over 1000 families turn their real estate dreams and goals into reality.
+  market: Tampa Bay
+  brand: Donovan Home Sales, Inc.
   brokerage:
-  address:
-  phone:
+  address: 12651 Walsingham Rd. Ste. D<br>Largo, FL 33774
+  phone: 727-595-8880
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Karen@homesbydonovan.com
+  url: http://www.StPeteClearWaterMLS.com
 
 lender:
   show_section: false
@@ -44,38 +48,38 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/Tampa-Bay-Real-Estate-Careers-1269603313185548/
+  linkedin_url: https://www.linkedin.com/pub/karen-donovan/27/1a9/657
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCSUrltTypgDYDihP0ox8Obg
+  twitter_url: http://www.twitter.com/donovanrealty
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Karen-Donovan/
+  trulia_url: http://www.trulia.com/profile/karen-donovan-agent-11801-230122/overview
+  yelp_url: http://www.yelp.com/biz/donovan-home-sales-inc-tampa-bay
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Tampa Bay Real Estate Podcast with Karen & Joe Donovan'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Tampa Bay Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Donovan Home Sales, Inc. - your professional Tampa Bay Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa Bay, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Karen & Joe Donovan'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Tampa Bay Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#013E7D'
+  theme_color: '#3099C8'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
