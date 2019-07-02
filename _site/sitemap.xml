@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/a-time-management-technique-to-enhance-your-life-business.html</loc>
+<lastmod>2019-05-17T15:31:53-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/3-tips-that-will-have-people-calling-you-back-in-no-time.html</loc>
+<lastmod>2019-04-11T11:54:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-avoid-a-low-appraisal.html</loc>
+<lastmod>2019-03-25T09:38:43-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/today-on-keeping-in-tune-with-market-3.html</loc>
 <lastmod>2019-02-04T14:16:00-06:00</lastmod>
 </url>
@@ -115,5 +127,8 @@
 </url>
 <url>
 <loc>localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>localhost:4000/page4/</loc>
 </url>
 </urlset>
