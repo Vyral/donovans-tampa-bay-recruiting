@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lightning Safety tips you need to know
-date: 2020-07-06 14:02:53
+date: 2020-07-06 14:02:00
 tags:
 excerpt:
 enclosure:
@@ -25,11 +25,13 @@ As the dog days of summer approach, so does the likelihood of thunderstorms and 
 
 If you’d like to learn more about lightning to share with your family and friends, head over to Weather.gov for some interesting&nbsp;[**myths vs. facts here.**](https://t.e2ma.net/click/2bmhpc/6imx8m/2f9h0h){: target="_blank"}&nbsp;&nbsp;
 
-**Are you in danger INSIDE your house?**Actually, although its much safer inside - strong lightning can still find a path inside your home\! We have all heard of an appliance getting zapped or a circuit breaker tripped due to lightning. In a severe lightning storm you should stay off all corded equipment that could put you in direct contact with electricity. You should also avoid contact with plumbing fixtures, stay away from windows, doors and porches and do not lie on concrete floors or lean against concrete walls.&nbsp;
+**Are you in danger INSIDE your house?&nbsp;**Actually, although its much safer inside - strong lightning can still find a path inside your home\! We have all heard of an appliance getting zapped or a circuit breaker tripped due to lightning. In a severe lightning storm you should stay off all corded equipment that could put you in direct contact with electricity. You should also avoid contact with plumbing fixtures, stay away from windows, doors and porches and do not lie on concrete floors or lean against concrete walls.&nbsp;
 
-**Real Estate Tip of the Week**Before listing a home for sale during the summer, check out the weather report before getting photos taken. Generally the morning hours provide the best lighting for taking photos\! If, however, the lighting is not optimal, a photographer should have some tricks up his sleeve for taking great photos in bad lighting\! &nbsp;[**Click Here for a few cool tips\!&nbsp;**](https://t.e2ma.net/click/2bmhpc/6imx8m/i89h0h){: target="_blank"}&nbsp; If you need more tips and tricks on technology that will help you - we are always looking for innovative ideas that can help\! Call me to learn more.
+**Real Estate Tip of the Week&nbsp;**Before listing a home for sale during the summer, check out the weather report before getting photos taken. Generally the morning hours provide the best lighting for taking photos\! If, however, the lighting is not optimal, a photographer should have some tricks up his sleeve for taking great photos in bad lighting\! &nbsp;[**Click Here for a few cool tips\!&nbsp;**](https://t.e2ma.net/click/2bmhpc/6imx8m/i89h0h){: target="_blank"}&nbsp; If you need more tips and tricks on technology that will help you - we are always looking for innovative ideas that can help\! Call me to learn more.
 
-**Words of Wisdom***Thunder is good, thunder is impressive, but it is lightning that does the work. -Mark Twain*
+**Words of Wisdom**
+
+*Thunder is good, thunder is impressive, but it is lightning that does the work. -Mark Twain*
 
 *If you are caught on a golf course during a storm and are afraid of lightning, hold up a 1-iron. Not even God can hit a 1-iron. - Lee Trevino*
 
@@ -41,4 +43,6 @@ If you’d like to learn more about lightning to share with your family and frie
 
 Stay safe and Make it a Great Week\!
 
-Karen & Joe DonovanP.S.[&nbsp;**Play Fun Day Monday Now\!**](https://t.e2ma.net/click/2bmhpc/6imx8m/y0ai0h){: target="_blank"}&nbsp; The winners for last week:&nbsp;**John Bogert, Winn Petrescue McQueeny, Kathy Jennings & Mary Akers****&nbsp;**not only get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of June and that winner will have a donation made to the Charity of their choice\!&nbsp;
+Karen & Joe Donovan
+
+P.S.[&nbsp;**Play Fun Day Monday Now\!**](https://t.e2ma.net/click/2bmhpc/6imx8m/y0ai0h){: target="_blank"}&nbsp; The winners for last week:&nbsp;**John Bogert, Winn Petrescue McQueeny, Kathy Jennings & Mary Akers****&nbsp;**not only get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of June and that winner will have a donation made to the Charity of their choice\!&nbsp;
