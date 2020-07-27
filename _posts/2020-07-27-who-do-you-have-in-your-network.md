@@ -21,11 +21,11 @@ If you ever have a home care question and need a reliable reference – or need 
 
 **Here are some tips to help you&nbsp;**find**&nbsp;someone&nbsp;**reliable**&nbsp;to hire&nbsp;**\: &nbsp; &nbsp;[\[](https://t.e2ma.net/click/vhxn3b/zwff20l/by8z2d){: target="_blank"}**[Read More HERE\]](https://t.e2ma.net/click/vhxn3b/zwff20l/rq9z2d){: target="_blank"}**
 
-* Decide whether you need a handyman or a contractor. …
-* Know exactly what you want done. …
-* Use licensed professionals. …
-* Shop around and read reviews. …
-* Get estimate/service specifics in writing. …
+* Decide whether you need a handyman or a contractor.&nbsp;
+* Know exactly what you want done.&nbsp;
+* Use licensed professionals.&nbsp;
+* Shop around and read reviews.&nbsp;
+* Get estimate/service specifics in writing.&nbsp;
 * Check credentials and guarantees.
 
 **DIY Tip for the Week**
