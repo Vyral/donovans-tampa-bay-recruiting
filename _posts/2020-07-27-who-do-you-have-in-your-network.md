@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Who Do You Have in Your Network?
-date: 2020-07-27 14:21:41
+date: 2020-07-27 14:21:00
 tags:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/mondayy-3.PNG
+use_youtube_image: false
+youtube_alternate_image: /uploads/mondayy-4.PNG
 youtube_code:
 ---
 
@@ -21,11 +21,11 @@ If you ever have a home care question and need a reliable reference – or need 
 
 **Here are some tips to help you&nbsp;**find**&nbsp;someone&nbsp;**reliable**&nbsp;to hire&nbsp;**\: &nbsp; &nbsp;[\[](https://t.e2ma.net/click/vhxn3b/zwff20l/by8z2d){: target="_blank"}**[Read More HERE\]](https://t.e2ma.net/click/vhxn3b/zwff20l/rq9z2d){: target="_blank"}**
 
-* Decide whether you need a handyman or a contractor. ...
-* Know exactly what you want done. ...
-* Use licensed professionals. ...
-* Shop around and read reviews. ...
-* Get estimate/service specifics in writing. ...
+* Decide whether you need a handyman or a contractor. …
+* Know exactly what you want done. …
+* Use licensed professionals. …
+* Shop around and read reviews. …
+* Get estimate/service specifics in writing. …
 * Check credentials and guarantees.
 
 **DIY Tip for the Week**
