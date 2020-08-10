@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Let Fear Influence Your Decisions
-date: 2020-08-10 14:51:46
+date: 2020-08-10 14:51:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/unnamed-6.png
 youtube_code:
 ---
 
@@ -33,7 +33,7 @@ What has been your greatest fear this year?&nbsp; I really like what Dave Ramsey
 
 *Some of us think holding on makes us strong, but sometimes it is letting go*.&nbsp;**– Herman Hesse**
 
-*We must be willing to let go of the life we’ve planned, so as to have the life that is waiting fo**r us.&nbsp;***– Joseph Campbell**
+*We must be willing to let go of the life we’ve planned, so as to have the life that is waiting fo**r us.&nbsp;***– Joseph Campbell\*\*
 
 *There’s an important difference between giving up and letting go*.&nbsp;**– Jessica Hatchigan**
 
