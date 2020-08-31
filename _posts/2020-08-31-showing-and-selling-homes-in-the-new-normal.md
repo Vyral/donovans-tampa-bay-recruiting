@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Showing and Selling Homes in the New Normal
-date: 2020-08-31 15:40:48
+date: 2020-08-31 15:40:00
 tags:
-excerpt:
+excerpt: >-
+  Most of us know the general rules and guidelines when we're on a showing a
+  home or on a listing presentation, but I thought a refresher and a few tips
+  might help us all keep our guard up!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -45,7 +48,7 @@ Not that we haven't heard this all before, but cleaning and disinfecting your ho
 
 *"He who fights and runs away will live to fight another day." Demosthenes*
 
-*"When I'm stuck with a day That's grey And lonely I just stick out my chin And grin And say - Oh\!&nbsp; The sun'll come out Tomorrow&nbsp; So ya gotta hang on 'Til tomorrow&nbsp; - Come what may...&nbsp; Tomorrow, tomorrow\! I love ya tomorrow\! You're always A day Away\!" -&nbsp; Charles Strouse/Martin Charnin - Song from Annie.*
+*"When I'm stuck with a day That's grey And lonely I just stick out my chin And grin And say - Oh\!&nbsp; The sun'll come out Tomorrow&nbsp; So ya gotta hang on 'Til tomorrow&nbsp; - Come what may…&nbsp; Tomorrow, tomorrow\! I love ya tomorrow\! You're always A day Away\!" -&nbsp; Charles Strouse/Martin Charnin - Song from Annie.*
 
 Having a plan ahead of time and putting the simple measures listed above into place will make for a safer and less stressful showing & selling of a home and perhaps, we all won't feel so "Stressed" in the New Normal\!&nbsp;
 
