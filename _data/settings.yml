@@ -19,36 +19,37 @@ client:
   name: Karen & Joe Donovan
   title:
   license_number:
-  about_markdown: >
-    Donovan Home Sales, Inc., founded in 2000, is built on a strong foundation
-    of core values and purpose. We operate in a fun, exciting and challenging
-    environment that helps all of us achieve our goals. Each of our staff
-    members and agents are dedicated to teamwork, self-improvement, positive
-    attitudes and most importantly, a passion and drive to surpass the
-    expectations of every client who does business with us. Whether you are
-    looking to sell your home, or purchase a new one, we can offer a dedicated
-    professional team and an innovative on-line approach.
+  about_markdown: >-
+    Donovan Home Sales, Inc., founded in 2000, is built on strong core values
+    and purpose. We operate in a fun, exciting and challenging environment that
+    helps all of us achieve our goals. Each of our staff members and agents are
+    dedicated to teamwork, self-improvement, positive attitudes and most
+    importantly, a passion and drive to surpass the expectations of every client
+    who does business with us. Whether you are looking to sell your home, or
+    purchase a new one, we can offer a dedicated professional team and an
+    innovative on-line approach.
 
 
     Our team of enthusiastic, hard working real estate agents is ready to walk
     you through the process of buying the perfect home or selling your existing
-    house for the best price.
+    house at the price you want, with the fewest problems within the time frame
+    you want.
 
 
     Joe and Karen Donovan, Broker –Owners, have been helping families in the
-    Tampa Bay - St. Pete/Clearwater area for over 20 years. Joe & Karen and
-    their team have participated in helping over 1000 families turn their real
-    estate dreams and goals into reality.
-  market: Tampa Bay
+    Tampa Bay - Pinellas County, St. Pete/Clearwater area for over 25 years. Joe
+    & Karen and their team have participated in helping over 1000 families turn
+    their real estate dreams and goals into reality.
+  market: 'Pinellas County, FL'
   brand: 'Donovan Home Sales, Inc.'
   brokerage:
-  address: '801 West Bay Dr.<br>Largo, FL 33770'
+  address: '801 West Bay Dr. #122<br>Largo, FL 33770'
   phone: 727-595-8880
   phone_type:
   phone2:
   phone2_type:
   email: Karen@homesbydonovan.com
-  url: 'http://www.StPeteClearWaterMLS.com'
+  url: 'http://www.TampabayHomesList.com'
 lender:
   show_section: false
   header_text: Preferred Lender
