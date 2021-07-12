@@ -3,11 +3,11 @@ layout: post
 title: Lessons From Dad
 date: 2021-06-21 00:00:00
 tags:
-  - Happy Holidays
+- Happy Holidays
 excerpt: >-
-  In honor of Father’s Day yesterday, I want to give a shout-out to all of the
-  dads, stepdads, foster dads and granddads out there who’ve done their best to
-  inspire, raise and love the kids in their lives.
+In honor of Father’s Day yesterday, I want to give a shout-out to all of the
+dads, stepdads, foster dads and granddads out there who’ve done their best to
+inspire, raise and love the kids in their lives.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -51,3 +51,5 @@ youtube_code:
 &nbsp;
 
 **P.S. The Winners for last week's Trivia Contest were: Frank Bartolla, Ashley Denninger, Eugene Patent and Ken & Lynda Horgan. Not Only do they get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of June and the winner of the Grand Prize drawing will have a donation made to the Charity of their choice\! &nbsp;Watch the Winners announced on The Good News Wednesday Show&nbsp;**&nbsp;[**WATCH ON FACEBOOK OR YOUTUBE NOW**](https://contacts.byreferralonly.com/Form.aspx?Key=98D8543BADFDC8C65042C8AC391A79FD)
+
+
