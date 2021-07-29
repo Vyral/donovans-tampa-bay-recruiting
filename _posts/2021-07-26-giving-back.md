@@ -5,7 +5,9 @@ date: 2021-07-26 00:00:00
 tags:
   - Real Estate
   - Tampa Bay Real Estate
-excerpt:
+excerpt: >-
+  Summertime is perfect for fun and frolic. It’s also a great time to consider
+  the value of giving back.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
