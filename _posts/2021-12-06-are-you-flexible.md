@@ -12,13 +12,13 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/kddd.jpg
 youtube_code:
 ---
-***Music Inspiration for the week:&nbsp; Which song about being Flexible inspires you? Click on link to listen : "Bend Me Shape Me"&nbsp;**\- by American Breed&nbsp;*[CLICK HERE&nbsp;](https://t.e2ma.net/click/rij2kd/zwff20l/f5we1e){: target="_blank"}&nbsp;&nbsp;*****or "Roll With It**"- by Steve Winwood&nbsp;*[CLICK HERE](https://t.e2ma.net/click/rij2kd/zwff20l/vxxe1e){: target="_blank"}**
+***Music Inspiration for the week:&nbsp; Which song about being Flexible inspires you? Click on link to listen : "Bend Me Shape Me" \*\*- by American Breed&nbsp;*[CLICK HERE&nbsp;](https://t.e2ma.net/click/rij2kd/zwff20l/f5we1e){: target="_blank"}&nbsp;&nbsp;*****or "Roll With It\*\*"- by Steve Winwood&nbsp;*[CLICK HERE](https://t.e2ma.net/click/rij2kd/zwff20l/vxxe1e){: target="_blank"}**
 
 **Good Morning\! &nbsp;**
 
 **Are you flexible? I’m not necessarily talking about being to do a back bend or assume some&nbsp;[pretzel-like yoga pose](https://t.e2ma.net/click/rij2kd/zwff20l/bqye1e){: target="_blank"}&nbsp;(though that would be awesome to see you do this\!)**
 
-**&nbsp;I am talking about being able to ‘roll with the punches’ and ‘ride the wave’ as inevitable adversity comes our way. ... I’m referring to&nbsp;[psychological flexibility.](https://t.e2ma.net/click/rij2kd/zwff20l/rize1e){: target="_blank"}**
+**&nbsp;I am talking about being able to ‘roll with the punches’ and ‘ride the wave’ as inevitable adversity comes our way. … I’m referring to&nbsp;[psychological flexibility.](https://t.e2ma.net/click/rij2kd/zwff20l/rize1e){: target="_blank"}**
 
 **When problems, stress and disappointment come your way, how do you react to it, how do you cope?**
 
