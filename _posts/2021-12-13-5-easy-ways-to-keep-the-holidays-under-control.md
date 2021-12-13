@@ -36,7 +36,7 @@ youtube_code:
 
 **Real Estate Corner: Speaking of "Control" - Check out "9 Bills You Should Never Put on Autopay" (especially the Cell Phone Bill\! I just checked mine and I can save about $25 a month\!\!\!) &nbsp;[CLICK HERE](https://t.e2ma.net/click/8r4vjf/sbltq1c/cjw6wo){: target="_blank"}**
 
-**Thanks for reading and remember: "It's not that you should never love something so much that it can control you. It's that you need to love something that much so you can never be controlled..." -&nbsp;[Patrick Ness](https://t.e2ma.net/click/8r4vjf/sbltq1c/83x6wo){: target="_blank"}[&nbsp;](https://t.e2ma.net/click/8r4vjf/sbltq1c/4oz6wo){: target="_blank"}&nbsp;&nbsp;**
+**Thanks for reading and remember: "It's not that you should never love something so much that it can control you. It's that you need to love something that much so you can never be controlled…" -&nbsp;[Patrick Ness](https://t.e2ma.net/click/8r4vjf/sbltq1c/83x6wo){: target="_blank"}[&nbsp;](https://t.e2ma.net/click/8r4vjf/sbltq1c/4oz6wo){: target="_blank"}&nbsp;&nbsp;**
 
 **Make it a Great Week\!**
 
