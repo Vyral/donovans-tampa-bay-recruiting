@@ -3,6 +3,7 @@ layout: default
 title: Little Things Mean A Lot!
 permalink: /about/
 ---
+
 ***Music Inspiration for the week:&nbsp; See why Little things are important. See what Abba has to say:&nbsp;[CLICK HERE](https://t.e2ma.net/click/v5r7ld/zwff20l/bm3f2e){: target="_blank"}&nbsp;*&nbsp;*****or what Bobby Goldsboro has to say :&nbsp;[CLICK HERE](https://t.e2ma.net/click/v5r7ld/zwff20l/nz5f2e){: target="_blank"}***
 
 **Good Morning\! &nbsp;**
