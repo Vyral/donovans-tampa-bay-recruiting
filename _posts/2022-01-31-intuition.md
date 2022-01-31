@@ -22,7 +22,7 @@ youtube_code:
 
 **&nbsp;When there is an important decision to make, don’t run around asking everyone what you should do. Instead, find a quiet place and give yourself time to feel, think, and contemplate. You have all the answers inside of you. Practice sharpening your intuition, take the time to strengthen your connection to your own&nbsp;[inner voice](https://t.e2ma.net/click/g68yuf/sbltq1c/40s58o){: target="_blank"}, and trust that you know what’s best for you. The more centered and tuned-in you are, the mightier you will be\!&nbsp;**
 
-**Real Estate Corner: Speaking of "Intuition" -- Check these "8 Intuitive Interior Design Tricks to Try For Your Home" (Make dark spaces feel lighter, small rooms seem bigger and how to arrange both old and new furniture\!) Exersize your intuition this week & try one\! -&nbsp;[CLICK HERE](https://t.e2ma.net/click/g68yuf/sbltq1c/ktt58o){: target="_blank"}**
+**Real Estate Corner: Speaking of "Intuition" – Check these "8 Intuitive Interior Design Tricks to Try For Your Home" (Make dark spaces feel lighter, small rooms seem bigger and how to arrange both old and new furniture\!) Exersize your intuition this week & try one\! -&nbsp;[CLICK HERE](https://t.e2ma.net/click/g68yuf/sbltq1c/ktt58o){: target="_blank"}**
 
 **Hope you enjoyed these tips -**
 
