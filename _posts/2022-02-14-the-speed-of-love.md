@@ -26,7 +26,7 @@ youtube_code:
 
 **Happy Valentine’s Day and remember to tell the people you care about that you love them, even with the simplest technology – your words.**
 
-**Real Estate Corner: Speaking of "Love " -- How about a few great last minute FREE or Low Cost Gift Ideas you can use to show the ones you care about some Love for Valentine's day and any day for that matter?\! &nbsp;[CLICK HERE](https://t.e2ma.net/click/raxzpd/zwff20l/3r6z5e){: target="_blank"}**
+**Real Estate Corner: Speaking of "Love " – How about a few great last minute FREE or Low Cost Gift Ideas you can use to show the ones you care about some Love for Valentine's day and any day for that matter?\! &nbsp;[CLICK HERE](https://t.e2ma.net/click/raxzpd/zwff20l/3r6z5e){: target="_blank"}**
 
 **Hope you enjoyed these tips -**
 
