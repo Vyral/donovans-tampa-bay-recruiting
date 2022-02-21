@@ -32,7 +32,7 @@ youtube_code:
 
 **Now you can start taking back control of your life and avoid becoming a&nbsp;[Zombie on autopilot](https://t.e2ma.net/click/rqpkpd/zwff20l/js9e5e){: target="_blank"}&nbsp;for the things that really matter to you.&nbsp; Take action today to move out of a life by default and toward a life of design\!**
 
-**Real Estate Corner: Speaking of "Design" -- How can you find the best designers to help fix up various rooms in your home? Do you go by word of mouth? Online? Or another way?&nbsp; Check out some creative On-line Design Services so you can check out the most talented and reasonably priced design experts for your needs&nbsp;[CLICK HERE](https://t.e2ma.net/click/rqpkpd/zwff20l/zkaf5e){: target="_blank"}**
+**Real Estate Corner: Speaking of "Design" – How can you find the best designers to help fix up various rooms in your home? Do you go by word of mouth? Online? Or another way?&nbsp; Check out some creative On-line Design Services so you can check out the most talented and reasonably priced design experts for your needs&nbsp;[CLICK HERE](https://t.e2ma.net/click/rqpkpd/zwff20l/zkaf5e){: target="_blank"}**
 
 **Hope you enjoyed these tips -**
 
