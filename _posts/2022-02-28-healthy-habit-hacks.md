@@ -32,7 +32,7 @@ youtube_code:
 
 **Be creative and try out different ideas for yourself. Remember: "[Proper Preparation Prevents Poor Performance\!](https://t.e2ma.net/click/f50xqd/zwff20l/72ds6e){: target="_blank"}"&nbsp; If you keep at it, eventually you will find your sweet spot so these healthy habits become automatic and work to your advantage to bring you the healthy lifestyle you deserve\!**
 
-**IMPORTANT HEALTH ALERT: Speaking of "Health" -- I want to call your attention to a potentially Life - changing vitamin for all ladies who take Calcium\!&nbsp; I was just alerted to the fact that if you take calcium and vitamin D. Without this additional nutrient, you could be putting your health at serious risk\! Please share this information with every woman you know\! (My doctor never mentioned it to me\!) It could save their lives or the life of their mother or sister\! &nbsp;[CLICK HERE](https://t.e2ma.net/click/f50xqd/zwff20l/nves6e){: target="_blank"}**
+**IMPORTANT HEALTH ALERT: Speaking of "Health" – I want to call your attention to a potentially Life - changing vitamin for all ladies who take Calcium\!&nbsp; I was just alerted to the fact that if you take calcium and vitamin D. Without this additional nutrient, you could be putting your health at serious risk\! Please share this information with every woman you know\! (My doctor never mentioned it to me\!) It could save their lives or the life of their mother or sister\! &nbsp;[CLICK HERE](https://t.e2ma.net/click/f50xqd/zwff20l/nves6e){: target="_blank"}**
 
 **Hope you Enjoyed these tips**
 
