@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/unnamed-25.jpg
 youtube_code:
 ---
-***May Your Choices Reflect Your Hopes, Not Your Fears" ...&nbsp;[Nelson Mandela](https://t.e2ma.net/click/ygrlqh/q6p3gvi/aiolhq){: target="_blank"}*****Good Morning\! Friends**
+***May Your Choices Reflect Your Hopes, Not Your Fears" …&nbsp;[Nelson Mandela](https://t.e2ma.net/click/ygrlqh/q6p3gvi/aiolhq){: target="_blank"}***
 
 **As we look around the world, it’s easy to see why so many people say that it’s challenging lately to have much confidence in the future. Inflation is skyrocketing, driving up the cost of everything from food to fuel, at the fastest rate in more than 40 years. War in Ukraine has many concerned for loved ones and rebuilding. New strains of the virus seem to pop up daily and folks are just tired of it all\! If you focus on what is “not good” it’s almost impossible to remain&nbsp;[self-assured](https://t.e2ma.net/click/ygrlqh/q6p3gvi/qaplhq){: target="_blank"}&nbsp;about how to react to all these changes.**
 
