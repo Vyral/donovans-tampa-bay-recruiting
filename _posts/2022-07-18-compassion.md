@@ -3,7 +3,9 @@ layout: post
 title: 'COMPASSION '
 date: 2022-07-18 14:18:10
 tags:
-excerpt:
+excerpt: >-
+  “A fight is going on inside me,” he said to the boy. “It is a terrible fight
+  and it is between two wolves.”
 enclosure:
 pullquote:
 enclosure_type: video/mp4
