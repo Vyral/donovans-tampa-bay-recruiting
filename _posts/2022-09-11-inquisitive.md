@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/email-webview-m😎nday-m😎rning-wake-up-inquisitive.png
+use_youtube_image: false
+youtube_alternate_image: /uploads/04d8c776b8a0803c1825a51b-1224x386-1.jfif
 youtube_code:
 ---
 **INSPIRATION FOR YOUR WEEK AHEAD:**
