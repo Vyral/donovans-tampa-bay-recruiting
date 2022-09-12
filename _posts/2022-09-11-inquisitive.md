@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/email-webview-m😎nday-m😎rning-wake-up-inquisitive-1.png
+youtube_alternate_image: /uploads/blue-bold-business-youtube-thumbnail.png
 youtube_code:
 ---
 **INSPIRATION FOR YOUR WEEK AHEAD:**
